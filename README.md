@@ -11,18 +11,18 @@
 -----------------------------
 # Summary:
 1. **Total Sales:** $900M in sales, with 2.5M units sold at an average price of $45.
-2. **Sales by Month:** Sales peaked in August ($95M) and were lowest in *October ($64M)*.
+2. **Sales by Month:** Sales peaked in August ($95M) and were lowest in *October ($64M).
 3. **Sales by Region:** 
      West region contributed 30% of total sales.
      Other key regions include the *Northeast* and *Southeast*.
 4. **Sales by Product:**
-   - *Men's Street Footwear* was the top-selling product at *$208.83M*.
+   - Men's Street Footwear was the top-selling product at *$208.83M*.
    - Footwear and apparel dominated the product sales.
 5. **Sales by Retailer:**
-   - *West Gear* and *Foot Locker* were the top retailers, with sales above $200M.
+   - West Gear and *Foot Locker* were the top retailers, with sales above $200M.
 6. **Operating Profit and Margin:**
-   - $332M operating profit, with a *42.3%* margin, indicating a strong profitability     
+   - $332M operating profit, with a 42.3% margin, indicating a strong profitability     
       level.
 7. **Geographic Insights:**
-  - Sales are stronger in certain regions such as the West and Northeast, as shown by the   
-    map visualization.
+   - Sales are stronger in certain regions such as the West and Northeast, as shown by the   
+      map visualization.
