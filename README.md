@@ -21,8 +21,8 @@
 5. **Sales by Retailer:**
    - *West Gear* and *Foot Locker* were the top retailers, with sales above $200M.
 6. **Operating Profit and Margin:**
-   - $332M operating profit, with a *42.3%* margin, indicating a     strong profitability     
+   - $332M operating profit, with a *42.3%* margin, indicating a strong profitability     
       level.
-8. **Geographic Insights:**
+7. **Geographic Insights:**
   - Sales are stronger in certain regions such as the West and Northeast, as shown by the   
     map visualization.
